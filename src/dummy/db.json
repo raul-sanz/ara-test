@@ -1,0 +1,600 @@
+[
+  {
+    "id": 7,
+    "nombre": "Lenovo Legion 5 Pro",
+    "tipo": "laptop",
+    "descripcion": "Laptop potente para gaming y edición de video con Ryzen 7 y RTX 3060.",
+    "caracteristicas": [
+      "gaming",
+      "edición de video",
+      "pantalla 165Hz",
+      "GPU dedicada"
+    ],
+    "precio": 1599,
+    "imagen": "https://placedog.net/520/320?id=1",
+    "estrellas":1
+  },
+  {
+    "id": 8,
+    "nombre": "Xiaomi 13 Ultra",
+    "tipo": "celular",
+    "descripcion": "Smartphone con cámara Leica, excelente batería y pantalla AMOLED de 120Hz.",
+    "caracteristicas": [
+      "cámara profesional",
+      "pantalla AMOLED",
+      "batería potente",
+      "Android"
+    ],
+    "precio": 1099,
+    "imagen": "https://placedog.net/520/320?id=2",
+    "estrellas":2
+  },
+  {
+    "id": 9,
+    "nombre": "HP Spectre x360",
+    "tipo": "laptop",
+    "descripcion": "Laptop convertible con pantalla táctil, ideal para productividad y diseño.",
+    "caracteristicas": [
+      "pantalla táctil",
+      "modo tablet",
+      "portátil premium",
+      "edición ligera"
+    ],
+    "precio": 1499,
+    "imagen": "https://placedog.net/520/320?id=3",
+    "estrellas":5
+  },
+  {
+    "id": 10,
+    "nombre": "Motorola Edge 40 Pro",
+    "tipo": "celular",
+    "descripcion": "Celular con carga ultra rápida, pantalla de 165Hz y cámara triple.",
+    "caracteristicas": [
+      "pantalla fluida",
+      "cámara versátil",
+      "carga rápida",
+      "Android"
+    ],
+    "precio": 899,
+    "imagen": "https://placedog.net/520/320?id=4",
+    "estrellas":1
+  },
+  {
+    "id": 11,
+    "nombre": "iPad Pro 12.9 M2",
+    "tipo": "tablet",
+    "descripcion": "Tableta profesional con chip M2, ideal para diseño gráfico y edición multimedia.",
+    "caracteristicas": [
+      "pantalla Liquid Retina",
+      "Apple Pencil",
+      "edición multimedia",
+      "portátil"
+    ],
+    "precio": 1499,
+    "imagen": "https://placedog.net/520/320?id=5",
+    "estrellas":5
+  },
+  {
+    "id": 12,
+    "nombre": "Realme GT 5 Pro",
+    "tipo": "celular",
+    "descripcion": "Smartphone flagship con gran rendimiento y cámara optimizada por IA.",
+    "caracteristicas": [
+      "rendimiento",
+      "cámara IA",
+      "pantalla AMOLED",
+      "Android"
+    ],
+    "precio": 749,
+    "imagen": "https://placedog.net/520/320?id=6",
+    "estrellas":4
+  },
+  {
+    "id": 13,
+    "nombre": "MSI Creator Z17",
+    "tipo": "laptop",
+    "descripcion": "Laptop diseñada para creadores de contenido con pantalla 4K y GPU RTX 4080.",
+    "caracteristicas": [
+      "edición 4K",
+      "GPU potente",
+      "pantalla touch",
+      "Windows"
+    ],
+    "precio": 2899,
+    "imagen": "https://placedog.net/520/320?id=7",
+    "estrellas":5
+  },
+  {
+    "id": 14,
+    "nombre": "OnePlus 11",
+    "tipo": "celular",
+    "descripcion": "Celular Android rápido, con buena cámara y gran autonomía.",
+    "caracteristicas": [
+      "velocidad",
+      "cámara buena",
+      "batería eficiente",
+      "pantalla AMOLED"
+    ],
+    "precio": 849,
+    "imagen": "https://placedog.net/520/320?id=8",
+    "estrellas":3
+  },
+  {
+    "id": 15,
+    "nombre": "Acer Nitro 5",
+    "tipo": "laptop",
+    "descripcion": "Laptop accesible para gaming y multitarea con gráficos NVIDIA.",
+    "caracteristicas": [
+      "gaming",
+      "multitarea",
+      "GPU dedicada",
+      "Windows"
+    ],
+    "precio": 1099,
+    "imagen": "https://placedog.net/520/320?id=10",
+    "estrellas":5
+  },
+  {
+    "id": 16,
+    "nombre": "Huawei MatePad Pro",
+    "tipo": "tablet",
+    "descripcion": "Tablet potente con teclado magnético y lápiz para trabajo y estudio.",
+    "caracteristicas": [
+      "pantalla grande",
+      "teclado magnético",
+      "stylus",
+      "portátil"
+    ],
+    "precio": 799,
+    "imagen": "https://placedog.net/520/320?id=11",
+    "estrellas":2
+  },
+  {
+    "id": 17,
+    "nombre": "ASUS Vivobook 15 OLED",
+    "tipo": "laptop",
+    "descripcion": "Laptop ligera con pantalla OLED y rendimiento sólido para uso diario.",
+    "caracteristicas": [
+      "pantalla OLED",
+      "ligera",
+      "uso diario",
+      "Windows"
+    ],
+    "precio": 849,
+    "imagen": "https://placedog.net/520/320?id=12",
+    "estrellas":5
+  },
+  {
+    "id": 18,
+    "nombre": "Sony Xperia 1 V",
+    "tipo": "celular",
+    "descripcion": "Smartphone con calidad de cámara cinematográfica y pantalla 4K HDR.",
+    "caracteristicas": [
+      "grabación cine",
+      "pantalla 4K",
+      "audio Hi-Res",
+      "Android"
+    ],
+    "precio": 1399,
+    "imagen": "https://placedog.net/520/320?id=13",
+    "estrellas":5
+  },
+  {
+    "id": 19,
+    "nombre": "MacBook Air M2",
+    "tipo": "laptop",
+    "descripcion": "Portátil ultra ligera con gran rendimiento y batería para todo el día.",
+    "caracteristicas": [
+      "ligera",
+      "rendimiento eficiente",
+      "batería duradera",
+      "MacOS"
+    ],
+    "precio": 1249,
+    "imagen": "https://placedog.net/520/320?id=14",
+    "estrellas":5
+  },
+  {
+    "id": 20,
+    "nombre": "Samsung Galaxy Tab S9 Ultra",
+    "tipo": "tablet",
+    "descripcion": "Tablet premium con pantalla de 14.6” AMOLED y S-Pen.",
+    "caracteristicas": [
+      "pantalla grande",
+      "S-Pen",
+      "Android",
+      "productividad"
+    ],
+    "precio": 1399,
+    "imagen": "https://placedog.net/520/320?id=15",
+    "estrellas":1
+  },
+  {
+    "id": 21,
+    "nombre": "Logitech MX Keys",
+    "tipo": "accesorio",
+    "descripcion": "Teclado inalámbrico premium para productividad y trabajo remoto.",
+    "caracteristicas": [
+      "ergonómico",
+      "retroiluminado",
+      "multi-dispositivo",
+      "silencioso"
+    ],
+    "precio": 129,
+    "imagen": "https://placedog.net/520/320?id=16",
+    "estrellas":5
+  },
+  {
+    "id": 22,
+    "nombre": "Apple Magic Mouse",
+    "tipo": "accesorio",
+    "descripcion": "Ratón inalámbrico con gestos multitouch para usuarios de Mac.",
+    "caracteristicas": [
+      "inalámbrico",
+      "gestos touch",
+      "minimalista",
+      "MacOS"
+    ],
+    "precio": 99,
+    "imagen": "https://placedog.net/520/320?id=17",
+    "estrellas":5
+  },
+  {
+    "id": 23,
+    "nombre": "Dell Inspiron 14",
+    "tipo": "laptop",
+    "descripcion": "Laptop económica para estudiantes y tareas diarias.",
+    "caracteristicas": [
+      "ligera",
+      "buen precio",
+      "tareas básicas",
+      "Windows"
+    ],
+    "precio": 649,
+    "imagen": "https://placedog.net/520/320?id=18",
+    "estrellas":5
+  },
+  {
+    "id": 24,
+    "nombre": "Nothing Phone (2)",
+    "tipo": "celular",
+    "descripcion": "Teléfono con diseño innovador y buena cámara, rendimiento fluido.",
+    "caracteristicas": [
+      "diseño único",
+      "cámara buena",
+      "rendimiento Android"
+    ],
+    "precio": 899,
+    "imagen": "https://placedog.net/520/320?id=19",
+    "estrellas":5
+  },
+  {
+    "id": 25,
+    "nombre": "Logitech MX Master 3S",
+    "tipo": "accesorio",
+    "descripcion": "Ratón inalámbrico de alto rendimiento con múltiples botones y personalización.",
+    "caracteristicas": [
+      "ergonómico",
+      "personalizable",
+      "silencioso",
+      "multi-plataforma"
+    ],
+    "precio": 149,
+    "imagen": "https://placedog.net/520/320?id=20",
+    "estrellas":5
+  },
+  {
+    "id": 26,
+    "nombre": "Surface Pro 9",
+    "tipo": "tablet",
+    "descripcion": "Tablet convertible en laptop con Windows 11, ideal para movilidad y productividad.",
+    "caracteristicas": [
+      "2 en 1",
+      "teclado extraíble",
+      "Windows",
+      "productividad"
+    ],
+    "precio": 1599,
+    "imagen": "https://placedog.net/520/320?id=21",
+    "estrellas":5
+  },
+  {
+    "id": 27,
+    "nombre": "Lenovo Yoga 9i",
+    "tipo": "laptop",
+    "descripcion": "Laptop convertible premium con pantalla táctil 4K y stylus incluido.",
+    "caracteristicas": [
+      "convertible",
+      "pantalla táctil",
+      "4K",
+      "stylus",
+      "Windows"
+    ],
+    "precio": 1799,
+    "imagen": "https://placedog.net/520/320?id=22",
+    "estrellas":5
+  },
+  {
+    "id": 28,
+    "nombre": "ZTE Axon 40 Ultra",
+    "tipo": "celular",
+    "descripcion": "Celular con cámara bajo pantalla y diseño sin notch, ideal para multimedia.",
+    "caracteristicas": [
+      "pantalla completa",
+      "multimedia",
+      "sin notch",
+      "Android"
+    ],
+    "precio": 899,
+    "imagen": "https://placedog.net/520/320?id=23",
+    "estrellas":5
+  },
+  {
+    "id": 29,
+    "nombre": "ASUS Zenbook Duo",
+    "tipo": "laptop",
+    "descripcion": "Laptop innovadora con doble pantalla, ideal para multitarea y productividad.",
+    "caracteristicas": [
+      "doble pantalla",
+      "multitarea",
+      "Windows",
+      "portátil creativa"
+    ],
+    "precio": 1999,
+    "imagen": "https://placedog.net/520/320?id=24",
+    "estrellas":5
+  },
+  {
+    "id": 30,
+    "nombre": "Nubia Red Magic 8 Pro",
+    "tipo": "celular",
+    "descripcion": "Smartphone gamer con ventilador integrado y pantalla AMOLED de 120Hz.",
+    "caracteristicas": [
+      "gamer",
+      "pantalla fluida",
+      "ventilador",
+      "alto rendimiento"
+    ],
+    "precio": 849,
+    "imagen": "https://placedog.net/520/320?id=25",
+    "estrellas":5
+  },
+  {
+    "id": 31,
+    "nombre": "Apple iPad Air M1",
+    "tipo": "tablet",
+    "descripcion": "Tableta liviana con chip M1, ideal para estudiantes y creativos.",
+    "caracteristicas": [
+      "liviana",
+      "potente",
+      "Apple Pencil",
+      "iPadOS"
+    ],
+    "precio": 999,
+    "imagen": "https://placedog.net/520/320?id=26",
+    "estrellas":5
+  },
+  {
+    "id": 32,
+    "nombre": "Razer Blade 16",
+    "tipo": "laptop",
+    "descripcion": "Laptop premium para gamers y creativos con RTX 4090 y pantalla Mini LED.",
+    "caracteristicas": [
+      "gaming",
+      "pantalla mini LED",
+      "GPU de alto rendimiento",
+      "creadores"
+    ],
+    "precio": 3699,
+    "imagen": "https://placedog.net/520/320?id=27",
+    "estrellas":5
+  },
+  {
+    "id": 33,
+    "nombre": "Fairphone 5",
+    "tipo": "celular",
+    "descripcion": "Teléfono ético, reparable y con soporte prolongado de software.",
+    "caracteristicas": [
+      "reparable",
+      "sostenible",
+      "soporte largo",
+      "Android puro"
+    ],
+    "precio": 699,
+    "imagen": "https://placedog.net/520/320?id=28",
+    "estrellas":5
+  },
+  {
+    "id": 34,
+    "nombre": "HP Envy 16",
+    "tipo": "laptop",
+    "descripcion": "Portátil para creación de contenido con pantalla 120Hz y CPU Intel i7.",
+    "caracteristicas": [
+      "creación de contenido",
+      "pantalla rápida",
+      "procesador potente"
+    ],
+    "precio": 1599,
+    "imagen": "https://placedog.net/520/320?id=29",
+    "estrellas":5
+  },
+  {
+    "id": 35,
+    "nombre": "Lenovo Tab P12 Pro",
+    "tipo": "tablet",
+    "descripcion": "Tablet Android con pantalla AMOLED, ideal para multimedia y dibujo.",
+    "caracteristicas": [
+      "pantalla AMOLED",
+      "soporte stylus",
+      "multimedia",
+      "Android"
+    ],
+    "precio": 899,
+    "imagen": "https://placedog.net/520/320?id=30",
+    "estrellas":5
+  },
+  {
+    "id": 36,
+    "nombre": "ASUS TUF Gaming A15",
+    "tipo": "laptop",
+    "descripcion": "Laptop gamer accesible con Ryzen 7 y RTX 4060, ideal para estudiantes.",
+    "caracteristicas": [
+      "gaming",
+      "rendimiento equilibrado",
+      "buena refrigeración"
+    ],
+    "precio": 1199,
+    "imagen": "https://placedog.net/520/320?id=31",
+    "estrellas":5
+  },
+  {
+    "id": 37,
+    "nombre": "Samsung Galaxy A54",
+    "tipo": "celular",
+    "descripcion": "Teléfono gama media con pantalla Super AMOLED y cámara versátil.",
+    "caracteristicas": [
+      "gama media",
+      "pantalla buena",
+      "fotografía decente",
+      "Android"
+    ],
+    "precio": 449,
+    "imagen": "https://placedog.net/520/320?id=32",
+    "estrellas":5
+  },
+  {
+    "id": 38,
+    "nombre": "Dell G16",
+    "tipo": "laptop",
+    "descripcion": "Portátil gamer con pantalla 165Hz, ideal para tareas intensas.",
+    "caracteristicas": [
+      "pantalla rápida",
+      "gaming",
+      "GPU NVIDIA",
+      "Windows"
+    ],
+    "precio": 1399,
+    "imagen": "https://placedog.net/520/320?id=33",
+    "estrellas":5
+  },
+  {
+    "id": 39,
+    "nombre": "Boox Tab Ultra",
+    "tipo": "tablet",
+    "descripcion": "Tablet con pantalla E-Ink y Android, perfecta para leer y tomar notas.",
+    "caracteristicas": [
+      "pantalla E-Ink",
+      "lectura",
+      "notas digitales",
+      "Android"
+    ],
+    "precio": 599,
+    "imagen": "https://placedog.net/520/320?id=34",
+    "estrellas":5
+  },
+  {
+    "id": 40,
+    "nombre": "Sony WH-1000XM5",
+    "tipo": "accesorio",
+    "descripcion": "Auriculares con cancelación de ruido líder en la industria y sonido Hi-Res.",
+    "caracteristicas": [
+      "cancelación de ruido",
+      "audio premium",
+      "bluetooth",
+      "ergonómicos"
+    ],
+    "precio": 399,
+    "imagen": "https://placedog.net/520/320?id=35",
+    "estrellas":5
+  },
+  {
+    "id": 41,
+    "nombre": "Samsung Galaxy Book 3 Ultra",
+    "tipo": "laptop",
+    "descripcion": "Laptop potente con pantalla AMOLED y GPU RTX 4070 para productividad extrema.",
+    "caracteristicas": [
+      "pantalla AMOLED",
+      "productividad",
+      "GPU dedicada",
+      "Windows"
+    ],
+    "precio": 2499,
+    "imagen": "https://placedog.net/520/320?id=36",
+    "estrellas":5
+  },
+  {
+    "id": 42,
+    "nombre": "Honor Magic 6 Pro",
+    "tipo": "celular",
+    "descripcion": "Celular con cámara periscópica, carga rápida y diseño premium.",
+    "caracteristicas": [
+      "cámara avanzada",
+      "diseño elegante",
+      "carga rápida",
+      "Android"
+    ],
+    "precio": 1099,
+    "imagen": "https://placedog.net/520/320?id=37",
+    "estrellas":5
+  },
+  {
+    "id": 43,
+    "nombre": "Microsoft Designer Compact Keyboard",
+    "tipo": "accesorio",
+    "descripcion": "Teclado compacto y elegante con conexión Bluetooth para Windows.",
+    "caracteristicas": [
+      "compacto",
+      "bluetooth",
+      "Windows",
+      "silencioso"
+    ],
+    "precio": 79,
+    "imagen": "https://placedog.net/520/320?id=38",
+    "estrellas":5
+  },
+  {
+    "id": 44,
+    "nombre": "ASUS ProArt StudioBook 16",
+    "tipo": "laptop",
+    "descripcion": "Laptop para profesionales creativos con dial físico y pantalla OLED 4K.",
+    "caracteristicas": [
+      "OLED 4K",
+      "creadores",
+      "dial creativo",
+      "GPU profesional"
+    ],
+    "precio": 2799,
+    "imagen": "https://placedog.net/520/320?id=39",
+    "estrellas":5
+  },
+  {
+    "id": 45,
+    "nombre": "Beats Studio Buds+",
+    "tipo": "accesorio",
+    "descripcion": "Auriculares inalámbricos con cancelación activa y modo transparencia.",
+    "caracteristicas": [
+      "in-ear",
+      "cancelación activa",
+      "modo transparencia",
+      "Apple y Android"
+    ],
+    "precio": 199,
+    "imagen": "https://placedog.net/520/320?id=40",
+    "estrellas":5
+  },
+  {
+    "id": 46,
+    "nombre": "LG Gram 17",
+    "tipo": "laptop",
+    "descripcion": "Ultrabook de gran pantalla y peso ultraligero para movilidad y trabajo.",
+    "caracteristicas": [
+      "pantalla grande",
+      "liviana",
+      "batería duradera",
+      "Windows"
+    ],
+    "precio": 1799,
+    "imagen": "https://placedog.net/520/320?id=41",
+    "estrellas":5
+  }
+]
