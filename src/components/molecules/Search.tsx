@@ -1,9 +1,9 @@
 "use client"
-import React, { Fragment, useEffect, useRef, useState } from 'react'
+import React, { useEffect, useRef, useState } from 'react'
 import Input from '../atoms/Input'
 import { MagnifyingGlassIcon, XMarkIcon } from '@heroicons/react/24/solid'
 import { ArrowTurnDownLeftIcon } from '@heroicons/react/20/solid';
-import { CloseButton, Description, Dialog, DialogBackdrop, DialogPanel, DialogTitle, Transition } from '@headlessui/react';
+import { Description, Dialog, DialogBackdrop, DialogPanel, DialogTitle } from '@headlessui/react';
 import useSearchStore from '@/store/useSearchStore';
 import clsx from 'clsx';
 import { motion } from 'motion/react';
@@ -16,8 +16,8 @@ const Search = ({ noBorder }: { noBorder?: boolean }) => {
   const search = useSearchStore((state) => state.search);
   const setSearch = useSearchStore((state) => state.setSearch);
   const [loading, setLoading] = useState(false);
-  const [result, setResult] = useState<[any] | null>(null);
-  const [error, setError] = useState<any>(null);
+  const [result, setResult] = useState<[ProductType] | null>(null);
+  const [error, setError] = useState<string|null>(null);
   const [isGetting, setIsGetting] = useState(false);
   const [dotCount, setDotCount] = useState(0);
   const [description, setDescription] = useState('');
